@@ -18,5 +18,5 @@ Discord: pride#8793
 
 🙅  More
 
-If you're interested, please check out my personal ![Blog](http://blog.mepridee.top/), where I share my ordinary yet joyful life.
+If you're interested, please check out my personal [![Blog](http://blog.mepridee.top/)](http://blog.mepridee.top/), where I share my ordinary yet joyful life.
 Feel free to contact me via Email. I look forward to hearing from you.
