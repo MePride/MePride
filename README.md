@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @MePride
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💻  Latest Project (moving on from this soon)
+BusyFor / Kpay
 
-<!---
-MePride/MePride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🙋  About me
+Pride
+Interested in changing the world, currently digging in the field of Mathematics and Computer Science
+Addicted to productivity tools, crypto(graphy), algorithms and distributed systems etc.
+
+💁  How to reach me
+Email: mepridee@gmail.com
+Discord: pride#8793
+
+🙅  What to expect
+If you're interested, please check out my personal ![Blog](blog.mepridee.top), where I share my ordinary yet joyful life.
+Feel free to contact me via Email. I look forward to hearing from you.
