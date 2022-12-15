@@ -10,6 +10,6 @@ Addicted to productivity tools, crypto(graphy), algorithms and distributed syste
 Email: mepridee@gmail.com
 Discord: pride#8793
 
-🙅  What to expect
-If you're interested, please check out my personal ![Blog](blog.mepridee.top), where I share my ordinary yet joyful life.
+🙅  More
+If you're interested, please check out my personal [![Blog](blog.mepridee.top)](http://blog.mepridee.top/), where I share my ordinary yet joyful life.
 Feel free to contact me via Email. I look forward to hearing from you.
