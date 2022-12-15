@@ -8,10 +8,13 @@ Pride
 Interested in changing the world, currently digging in the field of Mathematics and Computer Science
 Addicted to productivity tools, crypto(graphy), algorithms and distributed systems etc.
 
+
 💁  How to reach me
 
 Email: mepridee@gmail.com
+
 Discord: pride#8793
+
 
 🙅  More
 
