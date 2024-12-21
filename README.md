@@ -1,18 +1,10 @@
-🙋  About me
+🙋 About Me
 
 Pride
-Interested in changing the world, currently digging in the field of Mathematics and Computer Science
-Addicted to productivity tools, crypto(graphy), algorithms and distributed systems etc.
+I’m interested in changing the world and am currently diving into the fields of Mathematics and Computer Science.
+I’m passionate about productivity tools, cryptography, algorithms, distributed systems, and more.
 
-
-💁  How to reach me
+💁 How to Reach Me
 
 Email: mepridee@gmail.com
-
 Discord: pride#8793
-
-
-🙅  More
-
-If you're interested, please check out my personal [![Blog](http://blog.mepridee.top/)](http://blog.mepridee.top/), where I share my ordinary yet joyful life.
-Feel free to contact me via Email. I look forward to hearing from you.
