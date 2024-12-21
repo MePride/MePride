@@ -1,7 +1,3 @@
-💻  Latest Project (moving on from this soon)
-
-BusyFor / Kpay
-
 🙋  About me
 
 Pride
